@@ -1,9 +1,7 @@
 # Sprint 3 · Entregable
 
-- **Reto:** *(copia el nombre del reto de la ficha del sprint)*
-- **Qué se entrega:** *(notebook, documento…)*
+- **Reto:Sprint S03 · Del dato al modelo en la nube
+- **Qué se entrega:trabajo turisdata con sql y colab
 - **Quién hizo qué:**
-  - Persona 1:
-  - Persona 2:
-  - Persona 3:
-- **Cómo reproducirlo:** *(pasos para ejecutarlo; si es un notebook, ábrelo en Colab y ejecútalo de arriba abajo)*
+  - Persona 1: adrián rodriguez
+- **Cómo reproducirlo: Abrir pdf normal y en colab iniciando sesion con una cuenta de google.
