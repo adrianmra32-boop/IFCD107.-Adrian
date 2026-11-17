@@ -1,9 +1,9 @@
 # Sprint 9 · Entregable
 
-- **Reto:** *(copia el nombre del reto de la ficha del sprint)*
-- **Qué se entrega:** *(notebook, documento…)*
+- **Reto:** *(Sprint S09 · Segmentar, recomendar y aprender por refuerzo)*
+- **Qué se entrega:** *(colad y pdf…)*
 - **Quién hizo qué:**
-  - Persona 1:
+  - Persona 1: Adrian
   - Persona 2:
   - Persona 3:
-- **Cómo reproducirlo:** *(pasos para ejecutarlo; si es un notebook, ábrelo en Colab y ejecútalo de arriba abajo)*
+- **Cómo reproducirlo:** *(el colad abrilo en la aplicacion preferiblente y el pdf solo abrir)*
